@@ -5,7 +5,7 @@ docker build -f Dockerfile -t ss .
 docker run -d 10001:10001 ss
 
 
-默认密码为 Zxc123456789
+默认密码为 123456
 
 默认加密方式为 aes-256-cfb
 
